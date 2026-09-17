@@ -1,2 +1,2 @@
 name = "shailendra"
-print(name[0:3])
+print(name[0:3]) 
