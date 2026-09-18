@@ -1,3 +1,3 @@
 a = "FRIENDSHIP"
-b=a[3:6]
+b=a[3:5]
 print(b)
