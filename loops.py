@@ -13,9 +13,9 @@
 #     print(i)
 #     i-=1
 
-i=1
-while i<=10:
-    n = 5
-    n = n*i
-    i+=1
-    print(n)
+# i=1
+# while i<=10:
+#     n = 5
+#     a = n*i
+#     print(f"{n} * {i} = {a}")
+#     i+=1
