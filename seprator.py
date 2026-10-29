@@ -1,0 +1,1 @@
+print("if you want to be an english mentor you should have","skill", sep="-")

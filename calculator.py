@@ -11,4 +11,3 @@ print("subtraction of ",a,"and", b, "is :", sub)
 print("division of ",a,"and", b, "is :", div)
 print("remainder of ",a,"and", b, "is :", rem)
 print("division of ",a,"and", b, "is :", divs)
-
